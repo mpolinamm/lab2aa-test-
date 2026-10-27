@@ -1,0 +1,11 @@
+/workspaces/lab2aa-test-/EShop.Application/bin/Debug/net10.0/EShop.Application.deps.json
+/workspaces/lab2aa-test-/EShop.Application/bin/Debug/net10.0/EShop.Application.dll
+/workspaces/lab2aa-test-/EShop.Application/bin/Debug/net10.0/EShop.Application.pdb
+/workspaces/lab2aa-test-/EShop.Application/obj/Debug/net10.0/EShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lab2aa-test-/EShop.Application/obj/Debug/net10.0/EShop.Application.AssemblyInfoInputs.cache
+/workspaces/lab2aa-test-/EShop.Application/obj/Debug/net10.0/EShop.Application.AssemblyInfo.cs
+/workspaces/lab2aa-test-/EShop.Application/obj/Debug/net10.0/EShop.Application.csproj.CoreCompileInputs.cache
+/workspaces/lab2aa-test-/EShop.Application/obj/Debug/net10.0/EShop.Application.dll
+/workspaces/lab2aa-test-/EShop.Application/obj/Debug/net10.0/refint/EShop.Application.dll
+/workspaces/lab2aa-test-/EShop.Application/obj/Debug/net10.0/EShop.Application.pdb
+/workspaces/lab2aa-test-/EShop.Application/obj/Debug/net10.0/ref/EShop.Application.dll
